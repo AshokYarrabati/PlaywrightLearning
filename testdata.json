@@ -1,0 +1,18 @@
+[
+    {
+        "username":"tikka@gmail.com",
+        "password":"test@123",
+        "address":{
+            "line1":"Schedwe lines",
+            "line2":"Schedwe lines2"
+        }
+    },
+    {
+        "username":"ashok@gmail.com",
+        "password":"test@123",
+        "address":{
+            "line1":"Schedwe lines2",
+            "line2":"Schedwe lines3"
+        }
+    }
+]
